@@ -40,7 +40,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [counter_culture](https://github.com/magnusvk/counter_culture) - Turbo-charged counter caches for your Rails app. Huge improvements over the Rails standard counter caches.
 * [Sequenced](https://github.com/djreimer/sequenced) - Sequenced is a simple gem that generates scoped sequential IDs for ActiveRecord models.
 * [FriendlyId](https://github.com/norman/friendly_id) - FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.
-* [state_machine](https://github.com/pluginaweek/state_machine) - Adds support for creating state machines for attributes on any Ruby class
+* [state_machines](https://github.com/state-machines/state_machines) Adds support for creating state machines for attributes on any Ruby class
 * [PaperTrail](https://github.com/airblade/paper_trail) - PaperTrail lets you track changes to your models' data. It's good for auditing or versioning.
 * paranoia - je déconseille le "soft delete" pour des raisons de performance, utilisez une table spécialisée pour stocker vos archives.
 * [Validates](https://github.com/kaize/validates) - Validates provides collection of useful custom validators for Rails applications, including:
